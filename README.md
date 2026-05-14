@@ -1,23 +1,14 @@
 <div align="left">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>🐸 Hi, I'm Liya 🐸</h1>
-  <div>
-    <a href="README.ru.md">🇷🇺 ru</a>
-  </div>
-</div>
+# 🐸 Hi, I'm Liya 🐸
+
 
 ### Frontend Engineer • Team Lead • Mentor • Product-Minded Developer
 
 Building scalable frontend architectures, design systems, and developer-friendly products.
 
-Exploring backend architecture, PostgreSQL internals, CI/CD, and system design.
-
 Passionate about mentoring, soft skills, and creating engineering cultures where people grow.
-
-
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Libdrash/Libdrash/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Libdrash/Libdrash/output/github-snake.svg" />
