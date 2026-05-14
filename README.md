@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# 👋 Hi there, I'm Liya
+# 🐸 Hi, I'm Liya 🐸
 
 ### Frontend Engineer • Team Lead • Mentor • Product-Minded Developer
 
@@ -12,11 +12,10 @@ Passionate about mentoring, soft skills, and creating engineering cultures where
 
 <br />
 
-[🇺🇸 English](README.md) · [🇷🇺 Русский](README.ru.md)
+[🇺🇸](README.md) · [🇷🇺](README.ru.md)
 
 </div>
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Libdrash/Libdrash/output/github-snake-dark.svg" />
@@ -24,7 +23,6 @@ Passionate about mentoring, soft skills, and creating engineering cultures where
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Libdrash/Libdrash/output/github-snake.svg" />
 </picture>
 
----
 
 ## 🧠 About Me
 
