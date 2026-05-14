@@ -12,10 +12,11 @@ Passionate about mentoring, soft skills, and creating engineering cultures where
 
 <br />
 
-[🇺🇸](README.md) · [🇷🇺](README.ru.md)
-
+<div align="right">
+  <a href="README.md">🇺🇸 English</a> · <a href="README.ru.md">🇷🇺 Русский</a>
 </div>
 
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Libdrash/Libdrash/output/github-snake-dark.svg" />
