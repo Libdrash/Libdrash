@@ -1,6 +1,11 @@
 <div align="left">
 
-# 🐸 Hi, I'm Liya 🐸
+ <h1>
+    # 🐸 Hi, I'm Liya 🐸
+    <span style="float: right; font-size: 0.5rem;">
+     <a href="README.ru.md">🇷🇺Ru</a>
+    </span>
+  </h1>
 
 ### Frontend Engineer • Team Lead • Mentor • Product-Minded Developer
 
@@ -12,9 +17,6 @@ Passionate about mentoring, soft skills, and creating engineering cultures where
 
 <br />
 
-<div align="right">
-  <a href="README.md">🇺🇸 English</a> · <a href="README.ru.md">🇷🇺 Русский</a>
-</div>
 
 </div>
 
