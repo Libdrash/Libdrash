@@ -10,17 +10,21 @@ Exploring backend architecture, PostgreSQL internals, CI/CD, and system design.
 
 Passionate about mentoring, soft skills, and creating engineering cultures where people grow.
 
+<br />
+
+[**EN**](README.md) · [**RU**](README.ru.md)
+
 </div>
 
----
-
-## 🐍 Snake eating my contributions
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Libdrash/Libdrash/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Libdrash/Libdrash/output/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Libdrash/Libdrash/output/github-snake.svg" />
 </picture>
+
+<br />
 
 ---
 
@@ -153,7 +157,7 @@ Worked on:
 
 ## 🌍 Philosophy
 
-> Technology is not only about code.
+> Technology is not only about code.  
 > It's about systems, people, communication, and the products we create together.
 
 ---
