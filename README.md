@@ -17,7 +17,7 @@ Passionate about mentoring, soft skills, and creating engineering cultures where
 
 ## 🧠 About Me
 
-- 🏗️ Middle Frontend Engineer with **5+ years of commercial experience**.
+- 🏗️ Middle Frontend Engineer.
 - 👩‍💼 **Team Lead** focused on collaboration, mentorship, and healthy engineering culture.
 - 🌱 Developing mentorship practices, conducting **1:1 meetings**, and giving internal presentations.
 - 🎨 Contributed to building **UI Kits** and **Design Systems**.
